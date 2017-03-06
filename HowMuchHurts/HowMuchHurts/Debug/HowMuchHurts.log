@@ -1,0 +1,10 @@
+﻿  SpiffyC.cpp
+c:\users\billy\documents\visual studio 2015\projects\howmuchhurts\howmuchhurts\spiffyc.cpp(83): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Indicator.cpp
+  HowMuchHurts.cpp
+c:\users\billy\documents\visual studio 2015\projects\howmuchhurts\howmuchhurts\howmuchhurts.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\billy\documents\visual studio 2015\projects\howmuchhurts\howmuchhurts\howmuchhurts.cpp(86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library c:\users\billy\documents\visual studio 2015\Projects\HowMuchHurts\Debug\HowMuchHurts.lib and object c:\users\billy\documents\visual studio 2015\Projects\HowMuchHurts\Debug\HowMuchHurts.exp
+  HowMuchHurts.vcxproj -> c:\users\billy\documents\visual studio 2015\Projects\HowMuchHurts\Debug\HowMuchHurts.dll
+  HowMuchHurts.vcxproj -> c:\users\billy\documents\visual studio 2015\Projects\HowMuchHurts\Debug\HowMuchHurts.pdb (Full PDB)
